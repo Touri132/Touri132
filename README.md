@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulrhman Touri
-- 👀 I’m interested in full-stack and cyber security
-- 🌱 I’m currently learning front-end
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Linux and python
 - 📫 How to reach me Email: touriwork@outlook.com
 
 <!---
